@@ -76,7 +76,7 @@ Formula:
 
 Age on Netflix = Year Added − Release Year
 
-4. Exploratory Data Analysis (EDA)
+6. Exploratory Data Analysis (EDA)
 
 a. Content Type Analysis
 
@@ -111,7 +111,7 @@ h. Description Analysis
 
 * Word Cloud generated from title descriptions.
 
-5. Key Findings
+7. Key Findings
 
 a. Content Distribution
 
@@ -146,7 +146,7 @@ f. TV Show Trends
 * Reflects Netflix's focus on binge-friendly content.
 
 
-6. Business Recommendations
+8. Business Recommendations
 
 1. Continue expanding international content offerings.
 2. Increase investments in high-performing genres such as Drama and Comedy.
@@ -157,7 +157,7 @@ f. TV Show Trends
 
 
 
-7. Skills Demonstrated
+9. Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -168,7 +168,7 @@ f. TV Show Trends
 * Python Programming
 * Insight Generation
 
-8. Future Improvements
+10. Future Improvements
 
 * Interactive dashboard using Power BI or Tableau.
 * Predictive analytics for content success.
